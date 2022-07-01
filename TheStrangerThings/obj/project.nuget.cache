@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FqVqsqkyj1zm6KcPkqfVGvBhi5rGJ68UNo5+e0JU2Pf6DoR71zVsY6aHlbJDkJ1O8i8WiqRRrhTDwiuqaVMrSQ==",
+  "success": true,
+  "projectFilePath": "E:\\VSStudioProjects\\TheStrangerThings\\TheStrangerThings\\TheStrangerThings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vadim\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vadim\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vadim\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
